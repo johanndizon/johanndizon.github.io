@@ -2,7 +2,7 @@
 layout: page
 title: Brea Sister City Association
 description: Volunteer
-img: assets/img/7.jpg
+img: https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.breasistercity.org%2F&psig=AOvVaw1P1v7U0SuIEU1RZIN0v_mE&ust=1684790507151000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKCxtfKrh_8CFQAAAAAdAAAAABAD
 redirect: https://www.ci.brea.ca.us/920/Sister-Cities
 importance: 3
 category: current

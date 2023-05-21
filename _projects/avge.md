@@ -3,7 +3,7 @@ layout: page
 title: Anime Video Game Ensemble
 description: Co-President, Principal Conductor and Arranger
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://johanndizon.github.io/assets/img/groupphotoedited.jpg
 importance: 2
 category: current
 ---
