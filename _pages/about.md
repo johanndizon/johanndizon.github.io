@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://directory.brown.edu/uuid/ffca9212-1fc5-4ac1-9455-89feb30f64d8'>Brown University Student</a>. Business Economics and Political Science. Technology. Music.
 
 profile:
   align: right
@@ -13,7 +13,7 @@ profile:
     <p>Box 5767</p>
     <p>Providence, RI 02912-5767</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
