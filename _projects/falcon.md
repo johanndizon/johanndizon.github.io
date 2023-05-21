@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Team 7157
-description: President and Member, attended World Championships
+title: Fanning Academy of Science and Technology Robotics Team
+description: Founder and Director
 img: https://team7157.com/wp-content/uploads/2021/01/wildcatfull-1.png
-redirect: https://team7157.com/
-importance: 1
+redirect: https://falcon.bousd.us/
+importance: 2
 category: previous
 ---
 
