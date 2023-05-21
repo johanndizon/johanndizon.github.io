@@ -2,7 +2,7 @@
 layout: page
 title: organizations
 permalink: /organizations/
-description: A growing collection of your cool projects.
+description:
 nav: true
 nav_order: 1
 display_categories: [current, previous]

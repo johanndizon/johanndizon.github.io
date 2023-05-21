@@ -19,8 +19,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Brown University undergraduate student, set to graduate in 2024. I have two concentrations (majors), Business Economics and Political Science. Through my studies, I focus on the intersection of economics and politics to make more informed decisions. I combine  Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Brown University undergraduate student in the class of 2024, double concentrating (majoring) in Business Economics and Political Science. Through my studies, I focus on the intersection of economics and politics to make more informed decisions.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I believe that my diverse background has given me not just a more fulfilling life, but also a better understanding of how the world works. Ranging from business and politics, STEM and entrepreneurship, and music and foreign languages, my experiences allow me to think critically and solve any problem in any situation. Most importantly, I learned the importance of understanding each other, in order to overcome any challenge.
