@@ -32,56 +32,6 @@
       institution: Brea Olinda High School
       year: 2020
 
-- title: Business and Finance
-  type: time_table
-  contents:
-    - title: Elected At-Large Board Member
-      institution: Undergraduate Finance Board
-      year: Oct 2021 - Present
-      description:
-        - Current Brown University funds under Undergraduate Finance Board management approximately $2 Million USD
-        - Help hundreds of student clubs plan their events, conferences, shows, concerts, trips, and general activity financing
-        - Discuss and plan annual budgets determining overall University-wide events for all Brown undergraduate students
-        - Deliberate and vote to pass, defer, or deny group budgets subject to Board Policies, Procedures, and costs every week
-    - title: Marketing Communications and Project Manager - Internship
-      institution: ViewSonic Corporation
-      year:  Jun 2019 – Aug 2019
-      description:
-        - Conducted thorough research on competitors’ products and services
-        - Discussed strategies regarding how to respond to competitors’ actions and how to market in an always changing environment
-        - Learned about incorporating company philosophy and strategy into everyday work
-
-- title: Engineering and Entrepreneurship
-  type: time_table
-  contents:
-    - title: President (Jun 2019 – Jun 2020) and Member
-      institution: FIRST Robotics Competition Team 7157
-      year: Jan 2018 – Jun 2020
-      description:
-        - Led and ran team leadership operations, promoted STEM and real-world engineering experiences, including mechanical engineering,
-        design and Computer Aided Design, electrical engineering, programming, and business management and outreach for an independently
-        operating student-run organization
-        - Promoted a cross-district partnership with Sunny Hills High School to create a unique team of Brea and Fullerton students
-
-    - title: Founder and Director
-      institution: Fanning Academy of Science and Technology Robotics Team
-      year: Aug 2019 – Mar 2020
-      description:
-        - Taught engineering and competition mindsets to 4-6th graders through fundamentals of design, creativity, trial and error,
-        reiteration, and repetitive testing
-        - Emphasized teamwork and cooperation among students through open-ended brainstorming sessions, questionnaires and ideas
-        - Promoted STEM volunteering opportunities to high school students
-
-    - title: Engineering and Project Management - Internship
-      institution: M.R. Mold Engineering Corporation
-      year: Jun 2019 – Aug 2019
-      description:
-        - Focused on everyday engineering goals and company strategies through understanding mold production processes
-        - Understood customer to company interaction and organization. Created and organized mold manufacturing instructions by
-        analyzing errors, defects, and processes for future employees and machine operators
-        - Learned how to take apart molding apparati, various types of manufacturing machines and design software
-
-
 - title: Music
   type: time_table
   contents:
