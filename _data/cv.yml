@@ -1,13 +1,3 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
 - title: Education
   type: time_table
   contents:
@@ -17,13 +7,13 @@
       description:
         - title: Business Economics
           contents:
-            - Corporate Finance, Financial Institutions, Investments II, Investments I, Industrial Organization, Mathematical Intermediate Microeconomics, Intermediate Macroeconomics, Applied Research Methods for Economists, Statistical Inference I, Financial Accounting, Principals of Economics
+            - Corporate Finance, Financial Institutions, Investments II, Investments I, Industrial Organization, Mathematical Intermediate Microeconomics, Intermediate Macroeconomics, Applied Research Methods for Economists, Statistical Inference I, Financial Accounting, Principles of Economics
         - title: Political Science
           contents:
             - U.S. Congress, The American Presidency, City Politics, Intro to International Politics, Intro to Political Thought, Intro to Comparative Politics, The American Political Process
         - title: Music
           contents:
-            - Score Reading and Conducting, Analysis and Performance of Music, Theory of Tonal Music I & II
+            - Score Reading and Conducting, Analysis and Performance of Music, Theory of Tonal Music I & II, Wind Ensemble
     - title: High School Diploma, 4.65/4.00 GPA
       institution: Brea Olinda High School
       year: 2020
@@ -116,19 +106,12 @@
       items:
         - BJH Instrumental Music Program Director's Award
 
-- title: Academic Interests
-  type: nested_list
+- title: Skills
+  type: map
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - name: Software
+      value: Proficient in Microsoft Office, Adobe Creative Suite, Google Apps, Windows and OS X
+    - name: Languages
+      value: Japanese-Intermediate; Korean-Beginner
+    - name: Music
+      value: Proficient in music arranging, editing, orchestration, score reading and conducting, theory, education
