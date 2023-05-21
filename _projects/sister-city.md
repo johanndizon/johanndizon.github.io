@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Brea Sister City Association
+description: Volunteer
+img: assets/img/7.jpg
+redirect: https://www.ci.brea.ca.us/920/Sister-Cities
 importance: 3
-category: previous
+category: current
 ---
 
 Every project has a beautiful feature showcase page.

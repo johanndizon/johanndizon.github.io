@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Undergraduate Finance Board
+description: Elected At-Large Board Member
+img: assets/img/7.jpg
+redirect: https://www.brownufb.org/
 importance: 1
 category: current
 ---

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Anime Video Game Ensemble
+description: Co-President, Principal Conductor and Arranger
 img: assets/img/7.jpg
 redirect: https://unsplash.com
-importance: 3
+importance: 2
 category: current
 ---
 
