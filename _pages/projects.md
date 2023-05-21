@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects12
-permalink: /projects12/
+title: organizations
+permalink: /organizations/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 1
-display_categories: [work, fun]
+display_categories: [current, previous]
 horizontal: false
 ---
 
