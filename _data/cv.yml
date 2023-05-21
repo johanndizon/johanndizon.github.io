@@ -8,7 +8,25 @@
     - name: Languages
       value: English, German
 
-
+- title: Education
+  type: time_table
+  contents:
+    - title: B.A. Business Economics and Political Science, 3.92/4.0 GPA
+      institution: Brown University, Providence, Rhode Island
+      year: 2024
+      description:
+        - title: Business Economics
+          contents:
+            - Corporate Finance, Financial Institutions, Investments II, Investments I, Industrial Organization, Mathematical Intermediate Microeconomics, Intermediate Macroeconomics, Applied Research Methods for Economists, Statistical Inference I, Financial Accounting, Principals of Economics
+        - title: Political Science
+          contents:
+            - U.S. Congress, The American Presidency, City Politics, Intro to International Politics, Intro to Political Thought, Intro to Comparative Politics, The American Political Process
+        - title: Music
+          contents:
+            - Score Reading and Conducting, Analysis and Performance of Music, Theory of Tonal Music I & II
+    - title: High School Diploma, 4.65/4.00 GPA
+      institution: Brea Olinda High School
+      year: 2020
 
 - title: Business and Finance
   type: time_table
@@ -36,17 +54,14 @@
       institution: FIRST Robotics Competition Team 7157
       year: Jan 2018 – Jun 2020
       description:
-        - Led and ran team leadership operations, promoted STEM and real-world engineering experiences, including mechanical engineering,
-        design and Computer Aided Design, electrical engineering, programming, and business management and outreach for an independently
-        operating student-run organization
+        - Led and ran team leadership operations, promoted STEM and real-world engineering experiences, including mechanical engineering, design and Computer Aided Design, electrical engineering, programming, and business management and outreach for an independently operating student-run organization
         - Promoted a cross-district partnership with Sunny Hills High School to create a unique team of Brea and Fullerton students
 
     - title: Founder and Director
       institution: Fanning Academy of Science and Technology Robotics Team
       year: Aug 2019 – Mar 2020
       description:
-        - Taught engineering and competition mindsets to 4-6th graders through fundamentals of design, creativity, trial and error,
-        reiteration, and repetitive testing
+        - Taught engineering and competition mindsets to 4-6th graders through fundamentals of design, creativity, trial and error, reiteration, and repetitive testing
         - Emphasized teamwork and cooperation among students through open-ended brainstorming sessions, questionnaires and ideas
         - Promoted STEM volunteering opportunities to high school students
 
@@ -55,8 +70,7 @@
       year: Jun 2019 – Aug 2019
       description:
         - Focused on everyday engineering goals and company strategies through understanding mold production processes
-        - Understood customer to company interaction and organization. Created and organized mold manufacturing instructions by
-        analyzing errors, defects, and processes for future employees and machine operators
+        - Understood customer to company interaction and organization. Created and organized mold manufacturing instructions by analyzing errors, defects, and processes for future employees and machine operators
         - Learned how to take apart molding apparati, various types of manufacturing machines and design software
 
 
