@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Brea Sister City Association
-description: Volunteer
-img: https://i0.wp.com/www.breasistercity.org/wp-content/uploads/2017/09/cropped-BSCALogo-1.jpg?fit=512%2C512
-redirect: https://www.ci.brea.ca.us/920/Sister-Cities
-importance: 4
+title: Phi Beta Kappa
+description: elected to membership as a junior
+img: https://johanndizon.github.io/assets/img/pbk.png
+importance: 3
 category: current
 ---
 

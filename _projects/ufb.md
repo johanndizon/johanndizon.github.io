@@ -2,7 +2,7 @@
 layout: page
 title: Undergraduate Finance Board
 description: Elected At-Large Board Member
-img: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.brownufb.org%2F&psig=AOvVaw24Cw_qewferjHvJs5I6dtj&ust=1684790424018000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCNi6i8qrh_8CFQAAAAAdAAAAABAD
+img: https://images.squarespace-cdn.com/content/v1/5ae1dece372b9649f12ace5e/1631225742519-KUNN8IN7S6I57LBNQIU1/85.png?format=2500w
 redirect: https://www.brownufb.org/
 importance: 1
 category: current
