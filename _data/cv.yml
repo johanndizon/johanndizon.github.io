@@ -8,6 +8,32 @@
     - name: Languages
       value: English, German
 
+- title: Education
+  type: time_table
+  contents:
+    - title: B.A. Business Economics and Political Science, 3.92/4.0 GPA
+      institution: Brown University, Providence, Rhode Island
+      year: 2024
+      description:
+        - title: Business Economics
+          contents:
+            - Corporate Finance, Financial Institutions, Investments II, Investments I,
+            Industrial Organization, Mathematical Intermediate Microeconomics,
+            Intermediate Macroeconomics, Applied Research Methods for Economists,
+            Statistical Inference I, Financial Accounting, Principals of Economics
+        - title: Political Science
+          contents:
+            - U.S. Congress, The American Presidency, City Politics, Intro to International Politics,
+            Intro to Political Thought, Intro to Comparative Politics, The American Political Process
+        - title: Music
+          contents:
+            - Score Reading and Conducting, Analysis and Performance of Music, Theory of Tonal Music I & II
+    - title: High School Diploma, 4.65/4.00 GPA
+      institution: Brea Olinda High School
+      year: 2020
+
+
+
 - title: Music
   type: time_table
   contents:
