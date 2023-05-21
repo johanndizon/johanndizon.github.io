@@ -11,10 +11,10 @@ I take pride in my various STEM-related experiences, particularly from my time w
 
 Team 7157 in its first year made it to the FRC World Championships by winning the Rookie All-Star Award. I learned about all the different subteams and aspects that go into building a robot. This includes learning about mechanical engineering and machine shop work, computer-aided design (CAD), electrical engineering, programming, and of course business management and outreach, in order to finance the entire team and its objectives.
 
-<center><img src="https://johanndizon.github.io/assets/img/second7157.jpg" alt="Girl in a jacket" style="width:500px;height:600px;"></center>
+<center><img src="https://johanndizon.github.io/assets/img/second7157.jpg"></center>
 As team president, I learned the importance of combining the critical problem solving skills from engineering with a managerial mindset to run a successful, independently-run student organization. It was also through robotics the importance of communication, both within your organization and outside of it.
 
-<center><img src="https://johanndizon.github.io/assets/img/falcon.jpg" alt="Girl in a jacket" style="width:500px;height:600px;"></center>
+<center><img src="https://johanndizon.github.io/assets/img/falcon.jpg"></center>
 I extended my knowledge of robotics to help found and direct Fanning Academy of Science and Technology's FIRST Lego League (FLL) Robotics Team. Through my time volunteering there, I taught elementary school students how to prototype, design, build, and program. I also imparted the importance of coopertition (FIRST's cooperation and competition) and the value of teamwork.
 
 While I may not have the whiz of a computer science major or the expertise of an engineer, my experiences with robotics and STEM have given me valuable problem-solving skills that I still apply in my everday life. I truly believe that my work from solving finance math to doing tasks on my computer has become more efficient due to having an "engineering mindset." Being team president also gave me the managerial and communications experience in leading and handling a business, as well as how to finance and budget goals accordingly.
