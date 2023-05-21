@@ -2,7 +2,7 @@
 layout: page
 title: Fanning Academy of Science and Technology Robotics Team
 description: Founder and Director
-img: https://team7157.com/wp-content/uploads/2021/01/wildcatfull-1.png
+img: https://3.files.edl.io/77fc/22/07/25/210110-af59ce62-dfbc-4d5e-8edc-0da971e272b4.jpeg
 redirect: https://falcon.bousd.us/
 importance: 2
 category: previous
