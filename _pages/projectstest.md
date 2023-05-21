@@ -7,6 +7,10 @@ nav: true
 nav_order: 6
 display_categories: [work, fun]
 horizontal: false
+
+profile:
+  align: right
+  image: prof_pic1.jpg
 ---
 
 <!-- pages/projects.md -->
