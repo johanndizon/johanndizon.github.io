@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://directory.brown.edu/uuid/ffca9212-1fc5-4ac1-9455-89feb30f64d8'>Brown University Student</a>. Business Economics and Political Science. Music. Technology.
 

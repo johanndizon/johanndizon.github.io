@@ -1,6 +1,6 @@
 ---
 layout: page
-title: organizations
+title: Organizations
 permalink: /organizations/
 description:
 nav: true

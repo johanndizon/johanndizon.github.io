@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /technology/
-title: technology
+title: Technology
 description:
 nav: true
 nav_order: 4
