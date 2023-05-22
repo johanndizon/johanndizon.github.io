@@ -1,10 +1,10 @@
 ---
 layout: page
-title: BLYSO
-description: Assitant Conductor and Arranger, Principal Saxophonist
-img: https://johanndizon.github.io/assets/img/blyso.jpg
-redirect: http://www.hsilai.org/en/com/blyso.php
-importance: 6
+title: Brown Chamber Music
+description: Baritone Saxophonist
+img: https://johanndizon.github.io/assets/img/windsymphony.png
+redirect: https://music.brown.edu/music-making/ensembles/chamber
+importance: 4
 category: previous
 ---
 

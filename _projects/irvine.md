@@ -4,7 +4,7 @@ title: Irvine Classical Players
 description: Principal Saxophonist
 img: https://img1.wsimg.com/isteam/ip/7ed868ad-52fd-4565-8821-dbaf5c06da92/ICPO%20logo.png/:/rs=w:137,h:100,cg:true,m/cr=w:137,h:100/qt=q:95
 redirect: https://irvineclassicalplayers.com/
-importance: 4
+importance: 5
 category: previous
 ---
 
