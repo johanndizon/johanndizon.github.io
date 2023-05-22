@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /business/
-title: business
+permalink: /finance/
+title: Finance
 description:
 nav: true
 nav_order: 2
