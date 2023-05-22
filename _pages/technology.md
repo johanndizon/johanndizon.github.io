@@ -8,7 +8,7 @@ nav_order: 4
 ---
 <center><img src="https://johanndizon.github.io/assets/img/first7157.jpg"></center>
 <br>
-I take pride in my various STEM-related experiences, particularly from my time with [FIRST Robotics Competition (FRC) Team 7157](https://team7157.com/). In FRC, student teams design, build, wire, and program a robot of their own with no prior knowledge or instructions to answer a unique set of challenges every year. These challenges are all within a game, wherein student teams compete against each other to determine who has the highest scoring robot.
+I take pride in my various STEM-related experiences, particularly from my time with [FIRST Robotics Competition (FRC) Team 7157](https://team7157.com/). In [FRC](https://www.firstinspires.org/robotics/frc), student teams design, build, wire, and program a robot of their own with no prior knowledge or instructions to answer a unique set of challenges every year. These challenges are all within a game, wherein student teams compete against each other to determine who has the highest scoring robot.
 
 Team 7157 in its first year made it to the FRC World Championships by winning the Rookie All-Star Award. I learned about all the different subteams and aspects that go into building a robot. This includes learning about mechanical engineering and machine shop work, computer-aided design (CAD), electrical engineering, programming, and of course business management and outreach, in order to finance the entire team and its objectives.
 <br>
