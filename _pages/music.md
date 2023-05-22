@@ -8,7 +8,6 @@ nav_order: 3
 ---
 <center><img src="https://johanndizon.github.io/assets/img/IMG_0015.jpg"></center>
 <div class="caption">Credits to Richard Dong, Sophia Suh, Helena Suh, Emily Wang, and Jennie Wang for the AVGE Media</div>
-
 Music has always and will continue to be a crucial passion in my life. Going beyond just another hobby, I do believe that music has the power to connect beyond different tongues, cultures, and backgrounds. In line with my theme of understanding others, music continues to be my medium of artistic expression and bringing people together.
 
 I am a conductor, arranger and editor, and multi instrumentalist. My main instruments are saxophone (from soprano to baritone, since 2011) and piano (since 2017). Other instruments I play include low brass such as trombone and euphonium, to elementary level percussion. While not very experienced (but with the help of perfect pitch), I can sing in tune at a tenor-baritone range.
