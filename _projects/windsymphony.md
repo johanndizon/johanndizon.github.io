@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Irvine Classical Players
-description: Principal Saxophonist
-img: https://img1.wsimg.com/isteam/ip/7ed868ad-52fd-4565-8821-dbaf5c06da92/ICPO%20logo.png/:/rs=w:137,h:100,cg:true,m/cr=w:137,h:100/qt=q:95
-redirect: https://irvineclassicalplayers.com/
-importance: 4
+title: Brown Wind Symphony
+description: Baritone Saxophonist
+img: https://johanndizon.github.io/assets/img/windsymphony.png
+redirect: https://music.brown.edu/music-making/ensembles/wind-symphony
+importance: 3
 category: previous
 ---
 

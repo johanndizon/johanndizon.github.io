@@ -12,7 +12,7 @@ I am a conductor, arranger and editor, and multi instrumentalist. My main instru
 
 My music education primarily centered around both classical and jazz circles; I believe that learning one can supplment performance in the other, and vice versa. It all started from participating in my elementary school's concert band program. I then took private lessons for saxophone for three years, and private lessons for piano for four years. In between everything I continued to participate in various wind ensembles, jazz band, orchestras, and I performed in marching band in high school for three years. It was also around my time in high school that I became increasingly interested in conducting and leading ensembles.
 
-At Brown University, I have continued my passion for music by taking music classes, participated in Brown's Wind Ensemble, and most importantly, help arrange, conduct, and lead the Large Ensemble of Anime Video Game Ensemble (AVGE). AVGE is a unique music group that accepts students of any instrument, of any musical background.
+At Brown University, I have continued my passion for music by taking music classes, participated in Brown's Wind Symphony, and most importantly, help arrange, conduct, and lead the Large Ensemble of Anime Video Game Ensemble (AVGE). AVGE is a unique music group that accepts students of any instrument, of any musical background.
 <br>   
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/hSarLoapA5E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
