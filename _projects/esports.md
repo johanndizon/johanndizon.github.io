@@ -4,7 +4,7 @@ title: Brown Esports
 description: Member
 img: https://johanndizon.github.io/assets/img/esports.jpg
 redirect: https://brownesports.org/
-importance: 4
+importance: 3
 category: current
 ---
 

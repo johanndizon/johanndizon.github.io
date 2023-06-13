@@ -4,7 +4,7 @@ title: Anime Video Game Ensemble
 description: Co-President, Principal Conductor and Arranger
 img: https://johanndizon.github.io/assets/img/groupphotoedited.jpg
 redirect: https://www.youtube.com/@brownavge
-importance: 2
+importance: 1
 category: current
 ---
 

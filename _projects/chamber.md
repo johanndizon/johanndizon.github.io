@@ -4,7 +4,7 @@ title: Brown Chamber Music
 description: Baritone Saxophonist
 img: https://johanndizon.github.io/assets/img/windsymphony.png
 redirect: https://music.brown.edu/music-making/ensembles/chamber
-importance: 4
+importance: 5
 category: previous
 ---
 

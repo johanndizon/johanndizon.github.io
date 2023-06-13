@@ -4,7 +4,7 @@ title: BLYSO
 description: Assitant Conductor and Arranger, Principal Saxophonist
 img: https://johanndizon.github.io/assets/img/blyso.jpg
 redirect: http://www.hsilai.org/en/com/blyso.php
-importance: 6
+importance: 7
 category: previous
 ---
 

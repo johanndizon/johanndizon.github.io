@@ -4,7 +4,7 @@ title: Brea Sister City Association
 description: Volunteer
 img: https://i0.wp.com/www.breasistercity.org/wp-content/uploads/2017/09/cropped-BSCALogo-1.jpg?fit=512%2C512
 redirect: https://www.ci.brea.ca.us/920/Sister-Cities
-importance: 5
+importance: 4
 category: current
 ---
 

@@ -4,7 +4,7 @@ title: Phi Beta Kappa
 description: elected to membership as a junior
 img: https://johanndizon.github.io/assets/img/pbk.png
 redirect: https://www.pbk.org/
-importance: 3
+importance: 2
 category: current
 ---
 
