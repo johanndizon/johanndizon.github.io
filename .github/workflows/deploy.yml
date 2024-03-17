@@ -25,6 +25,8 @@ jobs:
       with:
         ruby-version: '3.2.1'
         bundler-cache: true
+    - name: run node20
+      uses: node20  
     - name: Install and Build 🔧
       run: |
         npm install -g mermaid.js
