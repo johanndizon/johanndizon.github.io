@@ -25,7 +25,7 @@
   type: time_table
   contents:
   - title: Investments II Undergraduate Teaching Assistant
-      institution: <a href="https://economics.brown.edu/">Brown University Department of Economics</a>
+      institution: <a href='https://economics.brown.edu/'>Brown University Department of Economics</a>
       year: Oct 2021 - May 2023
       description:
         - AUM approximately $2.5 Million USD
@@ -33,7 +33,7 @@
         - Manage annual budget spreadsheets determining overall University-wide events for all Brown undergraduate students
         - Legislate and vote to pass, defer, or deny group budgets subject to Board Policies, Procedures, and costs every week
     - title: Elected At-Large Board Member
-      institution: <a href="https://www.brownufb.org/">Undergraduate Finance Board</a>
+      institution: <a href='https://www.brownufb.org/'>Undergraduate Finance Board</a>
       year: Oct 2021 - May 2023
       description:
         - AUM approximately $2.5 Million USD
@@ -41,7 +41,7 @@
         - Manage annual budget spreadsheets determining overall University-wide events for all Brown undergraduate students
         - Legislate and vote to pass, defer, or deny group budgets subject to Board Policies, Procedures, and costs every week
     - title: Marketing Communications and Project Manager - Internship
-      institution: <a href="https://www.viewsonic.com/us/">ViewSonic Corporation</a>
+      institution: <a href='https://www.viewsonic.com/us/'>ViewSonic Corporation</a>
       year:  Jun 2019 – Aug 2019
       description:
         - Conduct thorough market research on competitors’ products and services
@@ -51,7 +51,7 @@
   type: time_table
   contents:
     - title: President
-      institution: <a href="https://team7157.com/">FIRST Robotics Competition Team 7157</a>
+      institution: <a href='https://team7157.com/'>FIRST Robotics Competition Team 7157</a>
       year: Jan 2018 – Jun 2020
       description:
         - Lead an independent, student-run FRC World Championships caliber team
@@ -60,7 +60,7 @@
         - Foster a cross-district partnership with Sunny Hills High School to create a unique team of Brea and Fullerton students
 
     - title: Founder and Director
-      institution: <a href="https://falcon.bousd.us/">Fanning Academy of Science and Technology Robotics Team</a>
+      institution: <a href='https://falcon.bousd.us/'>Fanning Academy of Science and Technology Robotics Team</a>
       year: Aug 2019 – Mar 2020
       description:
         - Teach engineering and competition mindsets to 4-6th graders through fundamentals of design, creativity, trial and error, reiteration, and repetitive testing
@@ -68,7 +68,7 @@
         - Connect high school students to STEM volunteering opportunities
 
     - title: Engineering and Project Management - Internship
-      institution: <a href="https://www.mrmold.com/">M.R. Mold Engineering Corporation</a>
+      institution: <a href='https://www.mrmold.com/'>M.R. Mold Engineering Corporation</a>
       year: Jun 2019 – Aug 2019
       description:
         - Create silicone rubber (LSR) mold manufacturing manuals and aggregate client-corporate needs
@@ -80,7 +80,7 @@
   type: time_table
   contents:
     - title: Co-President, Principal Conductor and Arranger
-      institution: <a href="https://www.youtube.com/@brownavge">Anime Video Game Ensemble</a>
+      institution: <a href='https://www.youtube.com/@brownavge'>Anime Video Game Ensemble</a>
       year: Jan 2022 – Present
       description:
         - Direct and conduct an orchestral ensemble of 50+ Brown University students every week
