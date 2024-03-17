@@ -27,11 +27,12 @@ jobs:
         bundler-cache: true
     - name: Install and Build 🔧
       run: |
-        npm install -g mermaid.cli
+        npm install -g mermaid.js
         bundle exec jekyll build
+      uses: node20
+      main: main.js
     - name: Deploy 🚀
       if: github.event_name != 'pull_request'
       uses: JamesIves/github-pages-deploy-action@v4
       with:
         folder: _site
-
