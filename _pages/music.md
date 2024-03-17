@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 3
 ---
-<a href='https://www.youtube.com/@brownavge'><img src="https://johanndizon.github.io/assets/img/largeEnsemble.jpg" class="center"></a>
+<a href='https://www.youtube.com/@brownavge'><img src="https://johanndizon.github.io/assets/img/largeEnsemble1.jpg" class="center"></a>
 
 Music has always and will continue to be a crucial passion in my life. Going beyond just another hobby, I do believe that music has the power to connect beyond different tongues, cultures, and backgrounds. In line with my theme of understanding others, music continues to be my medium of artistic expression and bringing people together.
 
