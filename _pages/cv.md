@@ -4,5 +4,5 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: Dizon_Resume_2024.pdf
+cv_pdf: Dizon-Johann-2024.pdf
 ---

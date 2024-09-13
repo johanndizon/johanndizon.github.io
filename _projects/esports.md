@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Brown Esports
-description: Member
+description: Alumnus, Competitor
 img: https://johanndizon.github.io/assets/img/esports.jpg
 redirect: https://brownesports.org/
 importance: 3
