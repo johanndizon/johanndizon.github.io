@@ -4,7 +4,7 @@ title: Brown Wind Symphony
 description: Baritone Saxophonist
 img: https://johanndizon.github.io/assets/img/windsymphony.png
 redirect: https://music.brown.edu/music-making/ensembles/wind-symphony
-importance: 4
+importance: 6
 category: previous
 ---
 

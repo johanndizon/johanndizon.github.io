@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Anime Video Game Ensemble
-description: Alumnus, Co-President, Principal Conductor and Arranger
-img: https://johanndizon.github.io/assets/img/groupphotoedited.jpg
-redirect: https://www.youtube.com/@brownavge
+title: Chimera Securities
+description: Equity Trader, SIE and Series 57 Licensed
+img: https://johanndizon.github.io/assets/img/chimera.jpg
+redirect: https://www.chimerasecurities.com/
 importance: 1
-category: current
+category: previous
 ---
 
 Every project has a beautiful feature showcase page.

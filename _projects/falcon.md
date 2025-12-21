@@ -4,7 +4,7 @@ title: Fanning Academy of Science and Technology Robotics Team
 description: Founder and Director
 img: https://3.files.edl.io/77fc/22/07/25/210110-af59ce62-dfbc-4d5e-8edc-0da971e272b4.jpeg
 redirect: https://falcon.bousd.us/
-importance: 3
+importance: 5
 category: previous
 ---
 

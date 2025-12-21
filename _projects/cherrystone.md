@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Anime Video Game Ensemble
-description: Alumnus, Co-President, Principal Conductor and Arranger
-img: https://johanndizon.github.io/assets/img/groupphotoedited.jpg
-redirect: https://www.youtube.com/@brownavge
-importance: 1
-category: current
+title: C
+description: Marketing and Business Analyst – PRIME Semester Internship
+img: https://johanndizon.github.io/assets/img/cherrystone.jpg
+redirect: https://www.cherrystoneangelgroup.com/
+importance: 2
+category: previous
 ---
 
 Every project has a beautiful feature showcase page.
