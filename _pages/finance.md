@@ -6,14 +6,14 @@ description:
 nav: true
 nav_order: 2
 ---
-<h1>Most Recent Work Experiences</h1>
+<h2>Most Recent Work Experiences</h2>
 
 My most recent work experience includes my full-time work at Chimera Securities, where I worked as an SIE and Series 57-licensed Equity Trader. I learned about fundamental and technical analysis, the forces of supply and demand behind price action, reading Level II order books, time and sales tape, and the importance of proper risk management. In particular, I learned how to manage risk in terms of cutting losses short but betting big on the best opportunities to exponentially magnify returns. While trading itself may not have one-to-one transferrable skills to other lines of work, I believe that the lessons learned from my time as a trader helped me grow in not just understanding how the financial world really works, but also as a person, as I am more enlightened in how to navigate the ups and downs of life.
 
 Before my full-time work, I was an intern at Cherrystone Angel Group, as a Marketing and Business Analyst. At Cherrystone, I worked on analyzing various startups across numerous industries and verticals, understanding their unique value propositions and their go-to-market potential. I also created marketing content for a Cherrystone-sponsored pitch night, and facilitated guests, booths, and presentations during the event.
 
 <center><img src="https://johanndizon.github.io/assets/img/ufboard.jpg"></center>
-<h1>During My Time At Brown University</h1>
+<h2>During My Time At Brown University</h2>
 
 At Brown University, the [Undergraduate Finance Board (UFB)](https://www.brownufb.org/) is concerned mainly with the financing of all student activities. These student activities range from student groups' concerts (such as Brown's Spring Weekend), performances, conferences, cultural celebrations, travel expenses, academic and career events, and so much more. UFB helps student groups that have objectives ranging from a few people to the entire campus.
 
