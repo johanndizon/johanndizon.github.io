@@ -1,6 +1,6 @@
 ---
 layout: page
-title: C
+title: Cherrystone Angel Group
 description: Marketing and Business Analyst – PRIME Semester Internship
 img: https://johanndizon.github.io/assets/img/cherrystone.jpg
 redirect: https://www.cherrystoneangelgroup.com/
