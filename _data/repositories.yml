@@ -9,4 +9,4 @@ github_repos:
   - jquery/jquery
   - FortAwesome/Font-Awesome
   - jpswalsh/academicons
-  - mathjax/MathJax
+  # - mathjax/MathJax
