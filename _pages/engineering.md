@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /technology/
-title: Technology
+permalink: /engineering/
+title: Engineering
 description:
 nav: true
 nav_order: 4
